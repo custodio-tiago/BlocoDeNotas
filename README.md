@@ -1,6 +1,8 @@
 # Bloco de Notas em Python com Tkinter
 
 Este é um bloco de notas simples desenvolvido em Python usando o Tkinter para a interface gráfica. O aplicativo permite criar, editar, salvar e abrir arquivos de texto, além de realizar operações básicas de edição como recortar, copiar e colar.
+  
+![image](https://github.com/user-attachments/assets/a6e4f97d-5e49-4527-921f-eaced595dc41)
 
 ## Funcionalidades
 
